@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import 'https://fonts.googleapis.com/css?family=Space+Mono';
+
+.menublock {
+	text-align: center;
+}
+H1 {
+	font-family: 'Space Mono', monospace;
+}
+H2 {
+	font-family: 'Space Mono', monospace;
+}
