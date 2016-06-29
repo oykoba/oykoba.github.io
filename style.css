@@ -4,7 +4,16 @@
 @import 'https://fonts.googleapis.com/css?family=Space+Mono';
 
 .menublock {
-	text-align: center;
+	width: 100%;
+	height: auto;
+	padding-top: 8em;
+	padding-bottom: 8em;
+	/* background-color: blue; */
+	margin: 10px;
+	border-style: solid;
+}
+	
+	
 }
 H1 {
 	font-family: 'Space Mono', monospace;
