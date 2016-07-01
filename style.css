@@ -30,6 +30,10 @@ H2 {
 	padding-top: 5em;
 }
 hr{
-	margin-bottom: 1em;
-	margin-top: 1em;
+	margin-bottom: 3.5em;
+	margin-top: 3.5em;
+}
+ol {
+	padding: 1.5em;
+
 }
