@@ -23,6 +23,7 @@ H1 {
 }
 H2 {
 	font-family: 'Space Mono', monospace;
+	margin-bottom: 1em;
 }
 .header1{
 	font-family: 'Space Mono', monospace ;
@@ -32,8 +33,16 @@ H2 {
 hr{
 	margin-bottom: 3.5em;
 	margin-top: 3.5em;
+	border-width: 2px;
 }
 ol {
-	padding: 1.5em;
+	padding-left: 0.5em;
 
+}
+.carousel-control.left, .carousel-control.right {
+    background-image: none;
+		outline: none;
+}
+p{
+	line-height:150%;
 }
