@@ -36,8 +36,7 @@ hr{
 	border-width: 2px;
 }
 ol {
-	padding-left: 0.5em;
-
+	padding-left: 0.95em;
 }
 .carousel-control.left, .carousel-control.right {
     background-image: none;
@@ -45,4 +44,9 @@ ol {
 }
 p{
 	line-height:150%;
+	text-align: justify;
+}
+.map li{
+	padding-bottom: 1em;
+
 }
