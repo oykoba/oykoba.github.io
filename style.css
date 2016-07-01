@@ -19,8 +19,13 @@
 
 }
 H1 {
-	font-family: 'Space Mono', monospace !important;
+	font-family: 'Space Mono', monospace ;
 }
 H2 {
 	font-family: 'Space Mono', monospace;
+}
+.header1{
+	font-family: 'Space Mono', monospace ;
+	height: 15em;
+	padding-top: 5em;
 }
